@@ -3,23 +3,23 @@
 
 <p align="left"> <a href="https://twitter.com/devmehta_4369" target="blank"><img src="https://img.shields.io/twitter/follow/devmehta_4369?logo=twitter&style=for-the-badge" alt="devmehta_4369" /></a> </p>
 
-- 🔭 I’m currently working on React Project [Reliance EPM]()
+- 🔭 I’m currently working on Flask Project [Internet Crawler](https://github.com/divyansh355/internet-crawler)
 
-- 🌱 I’m currently learning [Rust](https://github.com/dev4thedeveloper/rustLearning.git)
+- 🌱 I’m currently learning [Python Development]
 
 - 👯 I’m looking to collaborate on **Full-Stack Development**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Python Backend Developement**
 
-- 👨‍💻 All of my projects are available at [Projects](http://tinyurl.com/5wsbxcks)
+- 👨‍💻 All of my projects are available at [Projects](https://divyanshmehta.vercel.app/#projects)
 
 - 📝 I regularly write articles on [Hashnode](http://tinyurl.com/2s95mz6c)
 
-- 💬 Ask me about **Next.js**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **devmehta4369@outlook.com**
 
-- 📄 Know about my experiences [Resume](http://tinyurl.com/yc2hrvrm)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q2y1s2QocA8IiZ-yrI-F3N2aZ0PLf9fJ/view?usp=sharing)
 
 - ⚡ Fun fact: **I am a Polymath**
 
@@ -53,8 +53,8 @@
   <img width="48" height="48" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev4thedeveloper&show_icons=true&locale=en&layout=compact" alt="dev4thedeveloper" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyansh355&show_icons=true&locale=en&layout=compact" alt="dev4thedeveloper" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev4thedeveloper&show_icons=true&locale=en" alt="dev4thedeveloper" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh355&show_icons=true&locale=en" alt="dev4thedeveloper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev4thedeveloper&" alt="dev4thedeveloper" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh355&" alt="dev4thedeveloper" /></p>
