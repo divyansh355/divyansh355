@@ -31,10 +31,11 @@
 
 <h3 align="left">DSA :</h3>
 <p align="left">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 </p>
 
-<h3 align="left">FrontEnd :</h3>
+<h3 align="left">WebDev :</h3>
 <p align="left">
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
@@ -43,12 +44,9 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo.png" alt="redux"/>
-</p>
-
-<h3 align="left">Backend :</h3>
-<p align="left">
-  <img width="48" height="48" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
+  <img width="48" height="48" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyansh355&show_icons=true&locale=en&layout=compact" alt="dev4thedeveloper" /></p>
