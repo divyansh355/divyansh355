@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/devmehta_4369" target="blank"><img src="https://img.shields.io/twitter/follow/devmehta_4369?logo=twitter&style=for-the-badge" alt="devmehta_4369" /></a> </p>
 
-- 🔭 I’m currently working on Flask Project [Internet Crawler](https://github.com/divyansh355/internet-crawler)
+- 🔭 I’m currently working on React.js Project [AniPlex]()
 
-- 🌱 I’m currently learning [Python Development]
+- 🌱 I’m currently learning [DSA](https://github.com/divyansh355/DSA)
 
 - 👯 I’m looking to collaborate on **Full-Stack Development**
 
-- 🤝 I’m looking for help with **Python Backend Developement**
+- 🤝 I’m looking for help with **Rust Programming**
 
 - 👨‍💻 All of my projects are available at [Projects](https://divyanshmehta.vercel.app/#projects)
 
@@ -20,8 +20,6 @@
 - 📫 How to reach me **devmehta4369@outlook.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q2y1s2QocA8IiZ-yrI-F3N2aZ0PLf9fJ/view?usp=sharing)
-
-- ⚡ Fun fact: **I am a Polymath**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
