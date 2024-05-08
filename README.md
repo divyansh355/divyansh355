@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Mehta</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/devmehta_4369" target="blank"><img src="https://img.shields.io/twitter/follow/devmehta_4369?logo=twitter&style=for-the-badge" alt="devmehta_4369" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devstwt35" target="blank"><img src="https://img.shields.io/twitter/follow/devstwt35?logo=twitter&style=for-the-badge" alt="devstwts35" /></a> </p>
 
 - 🔭 I’m currently working on React.js Project [AniPlex]()
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Rust Programming**
 
-- 👨‍💻 All of my projects are available at [Projects](https://divyanshmehta.vercel.app/#projects)
+- 👨‍💻 All of my projects are available at [Projects](https://m-divyansh.netlify.app/#projects)
 
 - 📝 I regularly write articles on [Hashnode](http://tinyurl.com/2s95mz6c)
 
@@ -163,11 +163,6 @@
   <img src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=black&style=for-the-badge" height="40" alt="zig logo"  />
 </div>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@divyansh355" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 ###
 
@@ -178,13 +173,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh355&show_icons=true&locale=en" alt="dev4thedeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh355&" alt="dev4thedeveloper" /></p>
-
-###
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@divyansh355" alt="Layout with last medium posts"  />
-</div>
 
 ###
