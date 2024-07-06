@@ -163,8 +163,14 @@
   <img src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=black&style=for-the-badge" height="40" alt="zig logo"  />
 </div>
 
-
 ###
+
+### Leetcode
+<div align="center">
+
+![LeetCode Stats](https://leetcode.card.workers.dev/divyansh_3?theme=auto&font=baloo&extension=null)
+
+</div>
 
 <h3 align="left">Github Stats:</h3>
 
