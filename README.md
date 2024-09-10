@@ -160,7 +160,7 @@
 ### Leetcode
 <div align="center">
 
-![LeetCode Stats](https://leetcode.card.workers.dev/divyansh_3?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/divyansh_1749?theme=auto&font=baloo&extension=null)
 
 </div>
 
