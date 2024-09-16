@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **devmehta4369@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q2y1s2QocA8IiZ-yrI-F3N2aZ0PLf9fJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kVl6_CyU5uluKDnz7gVkple7vTbsQtyg/view?usp=drive_link)
 
 <h3 align="left">Social Accounts:</h3>
 <p align="left">
