@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/devstwt35" target="blank"><img src="https://img.shields.io/twitter/follow/devstwt35?logo=twitter&style=for-the-badge" alt="devstwts35" /></a> </p>
 
-- 🔭 I’m currently working on Full-Stack Project [AniPlex](https://aniplex-tv.netlify.app/)
+- 🔭 I’m currently working on Full-Stack Project [Aniplex](https://aniplex-1o2.pages.dev/)
 
 - 🌱 I’m currently learning [DSA](https://github.com/divyansh355/DSA)
 
