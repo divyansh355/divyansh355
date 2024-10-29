@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/devstwt35" target="blank"><img src="https://img.shields.io/twitter/follow/devstwt35?logo=twitter&style=for-the-badge" alt="devstwts35" /></a> </p>
 
-- 🔭 I’m currently working on Full-Stack Project [Aniplex](https://aniplex-1o2.pages.dev/)
+- 🔭 I’m currently working on Full-Stack Project [OpalSpace](https://opalspace.netlify.app/)
 
-- 🌱 I’m currently learning [DSA](https://github.com/divyansh355/DSA)
+- 🌱 I’m currently learning DevOps
 
 - 👯 I’m looking to collaborate on **Full-Stack Development**
-
-- 🤝 I’m looking for help with **Rust Programming**
 
 - 👨‍💻 All of my projects are available at [Projects](https://m-divyansh.netlify.app/#projects)
 
@@ -18,8 +16,6 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **devmehta4369@outlook.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kVl6_CyU5uluKDnz7gVkple7vTbsQtyg/view?usp=drive_link)
 
 <h3 align="left">Social Accounts:</h3>
 <p align="left">
